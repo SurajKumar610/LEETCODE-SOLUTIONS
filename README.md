@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0089-gray-code) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
