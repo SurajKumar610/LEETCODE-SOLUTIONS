@@ -64,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0355-design-twitter) |
+| [0707-design-linked-list](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0707-design-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0155-min-stack) |
 | [0355-design-twitter](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0355-design-twitter) |
+| [0707-design-linked-list](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0707-design-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
