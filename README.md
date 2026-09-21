@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
+| [0355-design-twitter](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
@@ -61,11 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0355-design-twitter) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0155-min-stack) |
+| [0355-design-twitter](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0355-design-twitter) |
 ## Doubly-Linked List
 |  |
 | ------- |
