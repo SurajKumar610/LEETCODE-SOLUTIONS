@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
+| [2502-design-memory-allocator](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2502-design-memory-allocator) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0355-design-twitter](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
+| [2502-design-memory-allocator](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2502-design-memory-allocator) |
 ## Sorting
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0155-min-stack) |
 | [0355-design-twitter](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0355-design-twitter) |
 | [0707-design-linked-list](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0707-design-linked-list) |
+| [2502-design-memory-allocator](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2502-design-memory-allocator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0155-min-stack) |
+## Simulation
+|  |
+| ------- |
+| [2502-design-memory-allocator](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2502-design-memory-allocator) |
 <!---LeetCode Topics End-->
