@@ -65,8 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0146-lru-cache) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
