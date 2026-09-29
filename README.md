@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0621-task-scheduler](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
+| [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2166-design-bitset](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2166-design-bitset) |
 | [2502-design-memory-allocator](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2502-design-memory-allocator) |
 ## Hash Table
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0355-design-twitter](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
+| [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2166-design-bitset](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2166-design-bitset) |
 | [2502-design-memory-allocator](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2502-design-memory-allocator) |
 ## Sorting
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0355-design-twitter](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
+| [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 ## Counting
 |  |
 | ------- |
