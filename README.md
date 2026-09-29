@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2166-design-bitset](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2166-design-bitset) |
+| [2402-meeting-rooms-iii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2402-meeting-rooms-iii) |
 | [2502-design-memory-allocator](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2502-design-memory-allocator) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2166-design-bitset](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2166-design-bitset) |
+| [2402-meeting-rooms-iii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2402-meeting-rooms-iii) |
 | [2502-design-memory-allocator](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2502-design-memory-allocator) |
 ## Sorting
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [2402-meeting-rooms-iii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2402-meeting-rooms-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
+| [2402-meeting-rooms-iii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2402-meeting-rooms-iii) |
 ## Counting
 |  |
 | ------- |
@@ -103,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2402-meeting-rooms-iii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2402-meeting-rooms-iii) |
 | [2502-design-memory-allocator](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2502-design-memory-allocator) |
 ## String
 |  |
