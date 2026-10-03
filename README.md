@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0355-design-twitter](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0355-design-twitter) |
+| [0451-sort-characters-by-frequency](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2166-design-bitset](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2166-design-bitset) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
+| [0451-sort-characters-by-frequency](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2402-meeting-rooms-iii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2402-meeting-rooms-iii) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0355-design-twitter) |
+| [0451-sort-characters-by-frequency](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [2351-first-letter-to-appear-twice](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2351-first-letter-to-appear-twice) |
 ## Concurrency
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [2166-design-bitset](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2166-design-bitset) |
 | [2351-first-letter-to-appear-twice](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
@@ -130,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0119-pascals-triangle-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
