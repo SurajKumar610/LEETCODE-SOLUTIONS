@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [2166-design-bitset](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2166-design-bitset) |
 | [2351-first-letter-to-appear-twice](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2351-first-letter-to-appear-twice) |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
