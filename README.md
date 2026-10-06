@@ -186,4 +186,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0051-n-queens) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
