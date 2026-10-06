@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0040-combination-sum-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0190-reverse-bits) |
 ## Two Pointers
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
