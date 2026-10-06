@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0089-gray-code) |
 ## Backtracking
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0190-reverse-bits) |
@@ -132,12 +134,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [2402-meeting-rooms-iii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2402-meeting-rooms-iii) |
 | [2502-design-memory-allocator](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2502-design-memory-allocator) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0424-longest-repeating-character-replacement](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [2166-design-bitset](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2166-design-bitset) |
