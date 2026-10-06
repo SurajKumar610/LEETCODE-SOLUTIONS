@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
