@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0041-first-missing-positive) |
 | [0146-lru-cache](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0355-design-twitter) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [2166-design-bitset](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2166-design-bitset) |
