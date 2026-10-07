@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0621-task-scheduler](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2166-design-bitset](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2166-design-bitset) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2166-design-bitset](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2166-design-bitset) |
 | [2351-first-letter-to-appear-twice](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2351-first-letter-to-appear-twice) |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0224-basic-calculator) |
+## Prefix Sum
+|  |
+| ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
