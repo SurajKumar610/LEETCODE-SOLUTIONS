@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0090-subsets-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0224-basic-calculator) |
 ## Simulation
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0119-pascals-triangle-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0119-pascals-triangle-ii) |
 ## Bucket Sort
 |  |
@@ -239,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
