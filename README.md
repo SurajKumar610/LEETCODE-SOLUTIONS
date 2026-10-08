@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0168-excel-sheet-column-title) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0119-pascals-triangle-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0119-pascals-triangle-ii) |
 ## Bucket Sort
 |  |
@@ -232,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
