@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0621-task-scheduler](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2166-design-bitset](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2166-design-bitset) |
@@ -194,11 +195,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
+| [1004-max-consecutive-ones-iii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 ## Manacher
 |  |
 | ------- |
