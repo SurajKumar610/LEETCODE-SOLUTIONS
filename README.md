@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2166-design-bitset](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2166-design-bitset) |
 | [2351-first-letter-to-appear-twice](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
