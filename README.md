@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0224-basic-calculator) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0168-excel-sheet-column-title) |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
