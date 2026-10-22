@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 ## Queue
 |  |
 | ------- |
