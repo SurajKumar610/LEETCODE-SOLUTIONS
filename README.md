@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0355-design-twitter) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [2351-first-letter-to-appear-twice](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2351-first-letter-to-appear-twice) |
@@ -191,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -209,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search
 |  |
@@ -293,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
