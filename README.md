@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
+| [0739-daily-temperatures](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
 | ------- |
