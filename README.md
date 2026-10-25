@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
 | [0355-design-twitter](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0355-design-twitter) |
 | [0707-design-linked-list](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0707-design-linked-list) |
 | [2166-design-bitset](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/2166-design-bitset) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0739-daily-temperatures) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
