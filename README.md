@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0355-design-twitter) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0021-merge-two-sorted-lists) |
 | [0224-basic-calculator](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0224-basic-calculator) |
 ## Prefix Sum
 |  |
