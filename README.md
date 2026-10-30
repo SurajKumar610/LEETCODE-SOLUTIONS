@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0322-coin-change](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0518-coin-change-ii) |
 ## Bucket Sort
 |  |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0101-symmetric-tree) |
+| [0322-coin-change](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -330,9 +333,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
