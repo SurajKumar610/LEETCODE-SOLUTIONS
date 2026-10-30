@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0518-coin-change-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0518-coin-change-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -325,4 +327,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
