@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0168-excel-sheet-column-title) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0062-unique-paths) |
 | [0119-pascals-triangle-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -319,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
