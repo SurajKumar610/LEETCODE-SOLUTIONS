@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0047-permutations-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0168-excel-sheet-column-title) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0062-unique-paths) |
 | [0119-pascals-triangle-ii](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0119-pascals-triangle-ii) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SurajKumar610/LEETCODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
 ## Quickselect
 |  |
 | ------- |
